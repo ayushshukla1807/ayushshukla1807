@@ -44,12 +44,12 @@
 
 <!-- Using transparent themes so it looks incredible on both Light Mode and Dark Mode github without weird blocky square backgrounds! -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushShukla1807&show_icons=true&hide_border=true&theme=transparent&title_color=38B2AC&icon_color=38B2AC" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushShukla1807&theme=transparent" alt="Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushShukla1807&hide_border=true&background=00000000&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShukla1807&layout=donut&hide_border=true&theme=transparent&title_color=38B2AC" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushShukla1807&theme=transparent" alt="Top Languages" width="48%" />
 </p>
 
 <br/>
