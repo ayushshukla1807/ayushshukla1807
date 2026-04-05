@@ -34,7 +34,7 @@
 
 <h2 align="center">🔥 Flagship Projects</h2>
 
-> ### 🚀 [OpenVeda](https://github.com/AyushShukla1807/OpenVeda)
+> ### 🚀 [OpenVeda](https://github.com/AyushShukla1807/openveda-launch)
 > A highly scalable open-source platform managing 185+ organizations for GSoC, LFX, and Outreachy. Featuring bespoke mentor profiles, complex matching, and a highly polished Next.js UI.
 > <br/>
 > **Stack:** Next.js • Supabase • Tailwind CSS 
@@ -68,4 +68,5 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
 </p>
+
 
