@@ -1,124 +1,83 @@
-<!-- Top Header Banner / Typing SVG and Waving Hand -->
+<!-- ABSOLUTE PREMIUM CAPSULE HEADER -->
 <div align="center">
-  <h1>Hey there, I'm Ayush Shukla <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyz/giphy.gif" width="35px" alt="Waving" /></h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ayush%20Shukla&fontSize=80&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20Open%20Source%20Contributor&descAlignY=55&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Open+Source+Contributor;AI+%26+ML+Enthusiast;Building+Premium+Experiences" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AyushShukla1807.AyushShukla1807&left_color=1F2937&right_color=38B2AC" alt="Visitor Badge" />
-</div>
-
-<br/>
-
-<!-- Social Icons -->
-<div align="center">
-  <a href="mailto:ayushshukla180701@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <a href="mailto:ayush.shukla@adypu.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/AyushShukla1807"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
+</p>
 
 ---
 
-### ⚡ About Me
+<br/>
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<h2 align="center">👨‍💻 About Me</h2>
 
-- 🔭 **Currently Building:** **[OpenVeda](https://github.com/AyushShukla1807/OpenVeda)** — A premium multi-program open-source launchpad.
-- 💼 **Experience:**
-  - **FOSSASIA**: Refactored backend architectures (`Python/Flask`) & optimized frontends (`Vue.js`) for the Eventyay platform.
-  - **Wikimedia Foundation**: Shipped production-level code & critical bug fixes for MediaWiki (Vector 2022 skin).
-- 🎓 **Education:** Pursuing AI & ML Minor @ **IIT Mandi**.
-- 🌟 **Community:** Head Organizer for the "Go for Gold" Elite Camp (80+ programmers) & Core Mentor for the Student Developer Club. 
-
-</td>
-<td valign="top" width="40%">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShukla1807&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
-</div>
-
-</td>
-</tr>
-</table>
-
-### 🛠️ Tech Archive
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<p align="center">
+  Pursuing an AI & ML Minor at <b>IIT Mandi</b>. Specializing in highly scalable engineering and premium open-source solutions. <br>
+  Currently leading development on <b>OpenVeda</b> and actively contributing to the <b>Wikimedia Foundation</b> and <b>FOSSASIA</b>.<br><br>
+  <i>"Merging technical expertise with community building to create exceptional digital experiences."</i>
 </p>
-
-### 🏆 Hall of Fame Projects
-
-<details>
-  <summary><b>🔥 OpenVeda (Premium Open-Source Platform)</b></summary>
-  <br/>
-  
-  > A highly scalable open-source platform managing 185+ organizations for GSoC, LFX, and Outreachy. Featuring bespoke mentor profiles, complex matching, and a highly polished Next.js UI.
-  
-  *Stack: Next.js, Supabase, Tailwind CSS*
-  <br/>
-  🔗 [View Repository](https://github.com/AyushShukla1807/OpenVeda)
-</details>
-
-<details>
-  <summary><b>🏢 Student Real Estate Platform</b></summary>
-  <br/>
-  
-  > Premium, one-stop real estate tech tailored for college students. Equipped with dynamic property listings, intelligent roommate matching mechanics, and strict authentication pipelines.
-  
-  *Stack: Next.js 14, Stripe, Supabase*
-  <br/>
-  🔗 [View Repository](https://github.com/AyushShukla1807/student-real-estate)
-</details>
-
-<details>
-  <summary><b>🍔 BBQ Recipe Hub</b></summary>
-  <br/>
-  
-  > Hand-crafted food-themed frontend architecture focusing on stunning multi-page navigation, beautiful dish UI components, and fully responsive layouts.
-  
-  *Stack: HTML, CSS, JavaScript*
-  <br/>
-  🔗 [View Repository](https://github.com/AyushShukla1807/BBQ-Recipe-Hub)
-</details>
 
 <br/>
 
-### 📊 GitHub Activity & Streaks
+<h2 align="center">🚀 Tech Arsenal</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushShukla1807&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&line_height=30" alt="Ayush's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushShukla1807&theme=tokyonight&hide_border=true&background=0D1117" alt="Ayush's GitHub Streak" width="48%" />
-</div>
+<!-- Skillicons are animated, highly styled, and automatically adapt to light/dark themes! -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,py,flask,php,vue,js,html,css,tailwind,supabase,mysql,postgres,git,github,vscode,linux&perline=9" alt="Skills" />
+  </a>
+</p>
 
-### 🐍 GitHub Contribution Map
+<br/>
 
-<!-- The popular grid snake animation showing your commits over the last year. This requires a quick GitHub Action to enable! -->
+<h2 align="center">🔥 Flagship Projects</h2>
 
+> ### 🚀 [OpenVeda](https://github.com/AyushShukla1807/OpenVeda)
+> A highly scalable open-source platform managing 185+ organizations for GSoC, LFX, and Outreachy. Featuring bespoke mentor profiles, complex matching, and a highly polished Next.js UI.
+> <br/>
+> **Stack:** Next.js • Supabase • Tailwind CSS 
+
+> ### 🏢 [Student Real Estate Platform](https://github.com/AyushShukla1807/student-real-estate)
+> Premium, one-stop real estate tech tailored for college students. Equipped with dynamic property listings, intelligent roommate matching, and strict authentication pipelines.
+> <br/>
+> **Stack:** Next.js 14 • Stripe • Supabase
+
+> ### 🍔 [BBQ Recipe Hub](https://github.com/AyushShukla1807/BBQ-Recipe-Hub)
+> Hand-crafted food-themed frontend architecture focusing on stunning multi-page navigation, beautiful dish UI components, and fully responsive layouts.
+> <br/>
+> **Stack:** HTML • CSS • JavaScript
+
+<br/>
+
+<h2 align="center">📊 GitHub Metrics</h2>
+
+<!-- Using transparent themes so it looks incredible on both Light Mode and Dark Mode github without weird blocky square backgrounds! -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushShukla1807&show_icons=true&hide_border=true&bg_color=00000000&title_color=38B2AC&icon_color=38B2AC" alt="Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushShukla1807&hide_border=true&background=00000000&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShukla1807&layout=donut&hide_border=true&bg_color=00000000&title_color=38B2AC" alt="Top Languages" width="48%" />
+</p>
+
+<br/>
+
+<h2 align="center">🐍 Contribution Matrix</h2>
+
+<!-- The snake will automatically show here perfectly centered without breaking the layout -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushShukla1807/AyushShukla1807/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushShukla1807/AyushShukla1807/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AyushShukla1807/AyushShukla1807/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AyushShukla1807/AyushShukla1807/output/github-contribution-grid-snake.svg" width="90%">
   </picture>
 </div>
 
----
-
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushShukla1807&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=7" alt="Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
 </p>
