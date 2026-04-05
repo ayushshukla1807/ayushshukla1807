@@ -4,8 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="mailto:ayush.shukla@adypu.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ayushshukla180701@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/AyushShukla1807"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -16,8 +15,8 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  Pursuing an AI & ML Minor at <b>IIT Mandi</b>. Specializing in highly scalable engineering and premium open-source solutions. <br>
-  Currently leading development on <b>OpenVeda</b> and actively contributing to the <b>Wikimedia Foundation</b> and <b>FOSSASIA</b>.<br><br>
+  Specializing in highly scalable engineering and premium open-source solutions. <br>
+  Currently leading development on <b>OpenVeda</b> and actively contributing to the <b>Wikimedia Foundation</b> .<br><br>
   <i>"Merging technical expertise with community building to create exceptional digital experiences."</i>
 </p>
 
@@ -40,17 +39,6 @@
 > A highly scalable open-source platform managing 185+ organizations for GSoC, LFX, and Outreachy. Featuring bespoke mentor profiles, complex matching, and a highly polished Next.js UI.
 > <br/>
 > **Stack:** Next.js • Supabase • Tailwind CSS 
-
-> ### 🏢 [Student Real Estate Platform](https://github.com/AyushShukla1807/student-real-estate)
-> Premium, one-stop real estate tech tailored for college students. Equipped with dynamic property listings, intelligent roommate matching, and strict authentication pipelines.
-> <br/>
-> **Stack:** Next.js 14 • Stripe • Supabase
-
-> ### 🍔 [BBQ Recipe Hub](https://github.com/AyushShukla1807/BBQ-Recipe-Hub)
-> Hand-crafted food-themed frontend architecture focusing on stunning multi-page navigation, beautiful dish UI components, and fully responsive layouts.
-> <br/>
-> **Stack:** HTML • CSS • JavaScript
-
 <br/>
 
 <h2 align="center">📊 GitHub Metrics</h2>
