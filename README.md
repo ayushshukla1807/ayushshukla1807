@@ -109,3 +109,5 @@ A unified agritech service platform for rural accessibility.
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
 </p>
+
+<!-- streak: 2026-06-19 -->
