@@ -5,6 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/AyushShukla1807"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ayush-shukla-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -87,7 +88,7 @@ A unified agritech service platform for rural accessibility.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushShukla1807&theme=transparent" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushShukla1807&hide_border=true&background=00000000&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushShukla1807&hide_border=true&background=00000000&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC&v=2" alt="Streak" width="48%" />
 </p>
 
 <p align="center">
@@ -109,8 +110,3 @@ A unified agritech service platform for rural accessibility.
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
 </p>
-
-<!-- streak: 2026-06-19 -->
-<!-- streak: 2026-06-19 v2 -->
-<!-- streak: 2026-06-19 v3 -->
-<!-- streak: 2026-06-19 v4 -->
