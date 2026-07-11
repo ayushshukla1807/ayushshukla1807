@@ -8,6 +8,11 @@
   <a href="https://www.linkedin.com/in/ayush-shukla-dev"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
+<!-- DYNAMIC TYPING SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Open-Source+Contributor;Building+scalable+systems;GenAI+%26+RAG+Enthusiast" alt="Typing Animation" />
+</div>
+
 <p align="center">
   <a href="#about-me"><b>About Me</b></a> •
   <a href="#tech-arsenal"><b>Tech Arsenal</b></a> •
@@ -113,6 +118,12 @@
 
 <h2 id="github-metrics" align="center">GitHub Metrics</h2>
 
+<!-- GITHUB TROPHIES CARD -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AyushShukla1807&theme=indigo&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" width="100%" />
+</div>
+<br/>
+
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
@@ -121,6 +132,13 @@
       </td>
       <td valign="top" width="50%" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushShukla1807&hide_border=true&background=00000000&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&v=6" alt="Streak" width="95%" />
+      </td>
+    </tr>
+    <!-- DYNAMIC WEEKLY ACTIVITY GRAPH -->
+    <tr>
+      <td valign="top" width="100%" align="center" colspan="2">
+        <br/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushShukla1807&bg_color=00000000&color=6366F1&line=8B5CF6&point=6366F1&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
       </td>
     </tr>
     <tr>
@@ -146,4 +164,9 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
+</p>
+
+<!-- VISITOR COUNTER BADGE -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AyushShukla1807.AyushShukla1807&left_color=181717&right_color=6366F1" alt="Visitor Count" />
 </p>
