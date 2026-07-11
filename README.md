@@ -1,18 +1,26 @@
 <!-- ABSOLUTE PREMIUM CAPSULE HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ayush%20Shukla&fontSize=80&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20Open%20Source%20Contributor&descAlignY=55&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=6366f1&customColorEnd=a855f7&height=280&section=header&text=Ayush%20Shukla&fontSize=80&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20Open%20Source%20Contributor&descAlignY=55&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/AyushShukla1807"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ayush-shukla-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/AyushShukla1807"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ayush-shukla-dev"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <a href="#about-me"><b>About Me</b></a> •
+  <a href="#tech-arsenal"><b>Tech Arsenal</b></a> •
+  <a href="#open-source--community-contributions"><b>Contributions</b></a> •
+  <a href="#flagship-projects"><b>Flagship Projects</b></a> •
+  <a href="#github-metrics"><b>GitHub Metrics</b></a>
 </p>
 
 ---
 
 <br/>
 
-<h2 align="center">About Me</h2>
+<h2 id="about-me" align="center">About Me</h2>
 
 <p align="center">
   Hi! I'm Ayush, a full-stack engineer and open-source contributor. 
@@ -26,17 +34,26 @@
 
 <br/>
 
-<h2 align="center">Tech Arsenal</h2>
+<h2 id="tech-arsenal" align="center">Tech Arsenal</h2>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,py,flask,php,vue,js,html,css,tailwind,supabase,mysql,postgres,git,github,vscode,linux&perline=9" alt="Skills" />
-  </a>
-</p>
+<div align="center">
+  <table border="0" cellpadding="10">
+    <tr>
+      <td valign="top" width="50%" align="center">
+        <h4>Languages & Databases</h4>
+        <img src="https://skillicons.dev/icons?i=ts,py,php,cpp,mysql,postgres,supabase" alt="Languages & Databases" />
+      </td>
+      <td valign="top" width="50%" align="center">
+        <h4>Frameworks & Tools</h4>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,vue,flask,tailwind,git,linux" alt="Frameworks & Tools" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
-<h2 align="center">Open Source & Community Contributions</h2>
+<h2 id="open-source--community-contributions" align="center">Open Source & Community Contributions</h2>
 
 <p align="left">
   Writing open-source software is one of my favorite ways to learn and give back. Here are some of my recent contributions:
@@ -52,48 +69,68 @@
 
 <br/>
 
-<h2 align="center">Flagship Projects</h2>
+<h2 id="flagship-projects" align="center">Flagship Projects</h2>
 
-### [InterviewOS](https://github.com/ayushshukla1807/InterviewOS)
-An AI-driven technical mock interview platform that simulates live coding and oral rounds.
-* **Dynamic Questions:** Uses Gemini and NLP pipelines to ask candidates customized technical questions based on their domain.
-* **Feedback Engine:** Evaluates candidate voice and text answers in real-time, outputting structured feedback on system design and coding concepts.
+### 💻 [InterviewOS](https://github.com/ayushshukla1807/InterviewOS)
+> **AI-Driven Live Technical Interview & Mock Assessment Platform**
+* **Technical Depth:** Engineered dynamic NLP assessment pipelines using Gemini API to generate customized questions and evaluate vocal/text responses.
+* **Core Impact:** Implemented real-time audio analysis and system design feedback matrices to simulate live industry screening rounds.
+* **Tech Stack:** `Next.js` • `FastAPI` • `Gemini API` • `WebSockets`
 
-### [OpenVeda](https://github.com/AyushShukla1807/openveda-launch)
-An open-source developer mentorship and CRM platform. It acts as a database and matchmaker for 185+ organizations across GSoC, LFX, and Outreachy.
-* **Smart Matching:** I used a RAG pipeline with `pgvector` to match mentors and mentees based on skills and profile data.
-* **Architecture:** Developed within a Turborepo monorepo architecture using Next.js and Supabase.
+---
 
-### [EnergyBae AutoLoad AI](https://github.com/ayushshukla1807/energybae-load-calculator)
-An enterprise energy auditing tool built to automate load calculations and report generation.
-* **AI Bill Parsing:** Created a multi-modal pipeline using Gemini 1.5 Flash to extract consumption metrics from scanned MSEDCL utility bills with 99.8% accuracy.
-* **Automated Excel Audits:** Wrote a formula-safe backend engine to programmatically generate ready-to-use engineering reports without breaking cell references.
-* **Stack:** Next.js 15, Supabase Row-Level Security, Gemini API.
+### 🌐 [OpenVeda](https://github.com/AyushShukla1807/openveda-launch)
+> **GenAI Mentorship CRM & Matchmaking Portal**
+* **Technical Depth:** Developed a semantic matching engine using RAG (Retrieval Augmented Generation) and `pgvector` to match mentors and mentees based on developer telemetry.
+* **Core Impact:** Managed distributed organizational data for 185+ open-source organizations participating in GSoC, LFX, and Outreachy.
+* **Tech Stack:** `Next.js` • `Supabase` • `pgvector` • `Turborepo`
 
-### [Neural KBC](https://github.com/ayushshukla1807/neural-kbc)
-A real-time game analytics engine designed to predict and adapt gameplay difficulty dynamically.
-* **ETL Pipeline:** Built a data pipeline using Apache Spark to process over 10,000 gameplay events.
-* **XGBoost Classifier:** Used XGBoost to build predictive models that adjust question complexity on the fly.
-* **Stack:** Python, Flask, Apache Spark, XGBoost.
+---
 
-### [Krishi Mitra Unified](https://github.com/ayushshukla1807/krishi-mitra-unified)
-A unified agritech service platform for rural accessibility.
-* **Logistics & Routes:** Implemented Dijkstra's algorithm to calculate the most efficient last-mile delivery routes for local farmers.
-* **Crop Diagnosis:** Built a FastAPI microservice that processes crop images to identify plant diseases using deep learning models.
-* **Stack:** FastAPI, React, Python, Dijkstra's.
+### ⚡ [EnergyBae AutoLoad AI](https://github.com/ayushshukla1807/energybae-load-calculator)
+> **Enterprise Multi-Modal Energy Auditing Suite**
+* **Technical Depth:** Built an extraction pipeline using Gemini 1.5 Flash to parse complex utility consumption metrics from scanned MSEDCL utility bills with 99.8% accuracy.
+* **Core Impact:** Designed a formula-safe Excel Injection Engine to programmatically generate ready-to-use audit sheets.
+* **Tech Stack:** `Next.js 15` • `FastAPI` • `Supabase RLS` • `Gemini API`
+
+---
+
+### 🧠 [Neural KBC](https://github.com/ayushshukla1807/neural-kbc)
+> **Big Data Gameplay Telemetry & Difficulty-Scaling Classifier**
+* **Technical Depth:** Architected an ETL pipeline in Apache Spark to process over 10,000 gameplay events.
+* **Core Impact:** Deployed an XGBoost classifier that predicts candidate performance and scales game difficulty dynamically in real-time.
+* **Tech Stack:** `Python` • `Apache Spark` • `XGBoost` • `Flask`
+
+---
+
+### 🚜 [Krishi Mitra Unified](https://github.com/ayushshukla1807/krishi-mitra-unified)
+> **Agritech Services Monorepo & Dijkstra-Based Delivery Router**
+* **Technical Depth:** Integrated a Python FastAPI microservice that processes crop images to identify plant diseases using deep learning models.
+* **Core Impact:** Designed a Last-mile Delivery Route Optimizer using Dijkstra's algorithm for agricultural logistics.
+* **Tech Stack:** `FastAPI` • `React` • `Python` • `Dijkstra's`
 
 <br/>
 
-<h2 align="center">GitHub Metrics</h2>
+<h2 id="github-metrics" align="center">GitHub Metrics</h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushShukla1807&theme=transparent" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushShukla1807&hide_border=true&background=00000000&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC&v=6" alt="Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushShukla1807&theme=transparent" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td valign="top" width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushShukla1807&theme=transparent" alt="Stats" width="95%" />
+      </td>
+      <td valign="top" width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushShukla1807&hide_border=true&background=00000000&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&v=6" alt="Streak" width="95%" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="100%" align="center" colspan="2">
+        <br/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushShukla1807&theme=transparent" alt="Top Languages" width="60%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
