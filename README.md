@@ -5,7 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/AyushShukla1807"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ayush-shukla-dev"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ayushshukla1807"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ayushshukla180701@gmail.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <!-- DYNAMIC TYPING SVG -->
@@ -14,32 +15,40 @@
 </div>
 
 <p align="center">
-  <a href="#about-me"><b>About Me</b></a> •
-  <a href="#tech-arsenal"><b>Tech Arsenal</b></a> •
-  <a href="#open-source--community-contributions"><b>Contributions</b></a> •
-  <a href="#flagship-projects"><b>Flagship Projects</b></a> •
-  <a href="#github-metrics"><b>GitHub Metrics</b></a>
+  <a href="#-about-me"><b>About Me</b></a> •
+  <a href="#%EF%B8%8F-tech-arsenal"><b>Tech Arsenal</b></a> •
+  <a href="#-open-source--community-contributions"><b>Contributions</b></a> •
+  <a href="#-flagship-projects"><b>Flagship Projects</b></a> •
+  <a href="#-github-metrics"><b>GitHub Metrics</b></a>
 </p>
 
 ---
 
 <br/>
 
-<h2 id="about-me" align="center">About Me</h2>
+## 👋 About Me
 
 <p align="center">
-  Hi! I'm Ayush, a full-stack engineer and open-source contributor. 
-  I build web apps, AI integrations, and automated pipelines. 
-  Currently, I'm pursuing a B.Tech in Computer Science alongside a minor in AI & Data Science.
+  Hi! I'm Ayush, a full-stack engineer and open-source contributor.
+  I build web apps, AI integrations, and automated pipelines.
+  Currently pursuing a B.Tech in Computer Science alongside a minor in AI & Data Science.
   <br/><br/>
-  I like writing clean, readable code and figuring out how to scale systems. 
-  Most of my work involves TypeScript, Python, Next.js, and Supabase. 
-  Lately, I've been focused on building custom RAG architectures, database tools, and contributing to core web infrastructure.
+  I like writing clean, readable code and figuring out how to scale systems.
+  Most of my work involves TypeScript, Python, Next.js, and Supabase.
+  Lately I've been focused on building custom RAG architectures, database tools, and contributing to core web infrastructure.
 </p>
 
 <br/>
 
-<h2 id="tech-arsenal" align="center">Tech Arsenal</h2>
+> 🔭 **Currently building:** InterviewOS — an AI-powered live technical interview & mock assessment platform
+>
+> 🌱 **Currently learning:** Advanced RAG pipelines, vector databases, and distributed system design
+>
+> 📬 **Reach me at:** [ayushshukla180701@gmail.com](mailto:ayushshukla180701@gmail.com)
+
+<br/>
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
   <table border="0" cellpadding="10">
@@ -58,11 +67,9 @@
 
 <br/>
 
-<h2 id="open-source--community-contributions" align="center">Open Source & Community Contributions</h2>
+## 🤝 Open Source & Community Contributions
 
-<p align="left">
-  Writing open-source software is one of my favorite ways to learn and give back. Here are some of my recent contributions:
-</p>
+Writing open-source software is one of my favorite ways to learn and give back. Here are some of my recent contributions:
 
 * **Wikimedia Foundation (MediaWiki Core)**
   * Worked on UI performance patches and resolved front-end bugs for the Vector 2022 skin, which serves millions of users globally.
@@ -74,7 +81,7 @@
 
 <br/>
 
-<h2 id="flagship-projects" align="center">Flagship Projects</h2>
+## 🚀 Flagship Projects
 
 ### 💻 [InterviewOS](https://github.com/ayushshukla1807/InterviewOS)
 > **AI-Driven Live Technical Interview & Mock Assessment Platform**
@@ -86,7 +93,7 @@
 
 ### 🌐 [OpenVeda](https://github.com/AyushShukla1807/openveda-launch)
 > **GenAI Mentorship CRM & Matchmaking Portal**
-* **Technical Depth:** Developed a semantic matching engine using RAG (Retrieval Augmented Generation) and `pgvector` to match mentors and mentees based on developer telemetry.
+* **Technical Depth:** Developed a semantic matching engine using RAG and `pgvector` to match mentors and mentees based on developer telemetry.
 * **Core Impact:** Managed distributed organizational data for 185+ open-source organizations participating in GSoC, LFX, and Outreachy.
 * **Tech Stack:** `Next.js` • `Supabase` • `pgvector` • `Turborepo`
 
@@ -94,7 +101,7 @@
 
 ### ⚡ [EnergyBae AutoLoad AI](https://github.com/ayushshukla1807/energybae-load-calculator)
 > **Enterprise Multi-Modal Energy Auditing Suite**
-* **Technical Depth:** Built an extraction pipeline using Gemini 1.5 Flash to parse complex utility consumption metrics from scanned MSEDCL utility bills with 99.8% accuracy.
+* **Technical Depth:** Built an extraction pipeline using Gemini 1.5 Flash to parse complex utility bills with 99.8% accuracy.
 * **Core Impact:** Designed a formula-safe Excel Injection Engine to programmatically generate ready-to-use audit sheets.
 * **Tech Stack:** `Next.js 15` • `FastAPI` • `Supabase RLS` • `Gemini API`
 
@@ -103,20 +110,20 @@
 ### 🧠 [Neural KBC](https://github.com/ayushshukla1807/neural-kbc)
 > **Big Data Gameplay Telemetry & Difficulty-Scaling Classifier**
 * **Technical Depth:** Architected an ETL pipeline in Apache Spark to process over 10,000 gameplay events.
-* **Core Impact:** Deployed an XGBoost classifier that predicts candidate performance and scales game difficulty dynamically in real-time.
+* **Core Impact:** Deployed an XGBoost classifier that predicts candidate performance and dynamically scales game difficulty in real-time.
 * **Tech Stack:** `Python` • `Apache Spark` • `XGBoost` • `Flask`
 
 ---
 
 ### 🚜 [Krishi Mitra Unified](https://github.com/ayushshukla1807/krishi-mitra-unified)
 > **Agritech Services Monorepo & Dijkstra-Based Delivery Router**
-* **Technical Depth:** Integrated a Python FastAPI microservice that processes crop images to identify plant diseases using deep learning models.
+* **Technical Depth:** Integrated a FastAPI microservice that processes crop images to identify plant diseases using deep learning.
 * **Core Impact:** Designed a Last-mile Delivery Route Optimizer using Dijkstra's algorithm for agricultural logistics.
 * **Tech Stack:** `FastAPI` • `React` • `Python` • `Dijkstra's`
 
 <br/>
 
-<h2 id="github-metrics" align="center">GitHub Metrics</h2>
+## 📊 GitHub Metrics
 
 <!-- GITHUB TROPHIES CARD -->
 <div align="center">
@@ -131,7 +138,7 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushShukla1807&theme=transparent" alt="Stats" width="95%" />
       </td>
       <td valign="top" width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushShukla1807&hide_border=true&background=00000000&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&v=6" alt="Streak" width="95%" />
+        <img src="https://streak-stats.demolab.com/?user=AyushShukla1807&hide_border=true&background=00000000&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&v=7" alt="Streak" width="95%" />
       </td>
     </tr>
     <!-- DYNAMIC WEEKLY ACTIVITY GRAPH -->
@@ -152,13 +159,13 @@
 
 <br/>
 
-<h2 align="center">Contribution Matrix</h2>
+## 🐍 Contribution Matrix
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushShukla1807/AyushShukla1807/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushShukla1807/AyushShukla1807/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AyushShukla1807/AyushShukla1807/output/github-contribution-grid-snake.svg" width="90%">
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/AyushShukla1807/AyushShukla1807/output/github-contribution-grid-snake.svg" width="90%">
   </picture>
 </div>
 
@@ -170,3 +177,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AyushShukla1807.AyushShukla1807&left_color=181717&right_color=6366F1" alt="Visitor Count" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=a855f7&customColorEnd=6366f1&height=120&section=footer" width="100%" alt="Footer" />
+</div>
